@@ -9,3 +9,5 @@
 > git check-ignore -v -z --stdin
 > git show :log.txt
 > git ls-files --stage -- ./
+
+feature/conflict ich also changing this file
