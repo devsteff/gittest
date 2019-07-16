@@ -11,3 +11,5 @@
 > git ls-files --stage -- ./
 
 feature/conflict ich also changing this file
+
+this line is added to this file
