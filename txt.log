@@ -9,3 +9,5 @@
 > git check-ignore -v -z --stdin
 > git show :log.txt
 > git ls-files --stage -- ./
+
+this line is added to this file
